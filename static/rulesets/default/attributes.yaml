@@ -6,3 +6,5 @@ attributes:
   baseValue: 0
 - id: player.paperAcceptanceBoost
   baseValue: 0
+- id: player.exhaustionReduction
+  baseValue: 0

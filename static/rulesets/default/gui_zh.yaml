@@ -17,7 +17,7 @@ statsBar:
     updateTrigger:
       variables: ["year", "month"]
 messageWindow:
-  typewriterSpeed: 30
+  typewriterSpeed: 60
 itemList:
   title: ui.items
   raritySpecificStyles:
@@ -50,6 +50,5 @@ footer:
       messageTitle: ui.privacyNoticeTitle
       message: ui.privacyNoticeContent
       confirmText: ui.ok
-    - text: ui.linkSimplifiedChineseVersion
-      url: index_zh.html
-      styleClasses: ['lang_zh_cn']
+    - text: ui.linkEnglishVersion
+      url: index.html
