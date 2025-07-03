@@ -240,6 +240,23 @@ message.sucks: 太糟糕了！
 message.party: 开趴庆祝一番！
 message.soundsInteresting: 有点意思。
 message.unfortunate: 唉。
+message.laugh: 哈哈哈！
 message.restart: 让我们穿越时空回到起点重新开始吧！
 message.restartNewTimeline: 让我们穿越到另一个世界线重新开始吧！
 message.hopeAccepted: 希望这次文章能被接收吧。
+# group meeting
+message.groupMeetingStart: 又到了令人讨厌的组会时间，你决定：
+message.groupMeetingAttend: 按时参加组会并汇报工作
+message.groupMeetingRepeat: 把上次组会的ppt再念一遍
+message.groupMeetingSkip: 不参加组会
+message.groupMeetingAdvisorReply: 导师提出了匪夷所思的常识问题，你开始比较博士生导师和小学生的区别。
+message.groupMeetingAdvisorHuabing1: 导师全程玩手机，并在结束时告诉你：“这个方向非常有前途，我希望你继续做这个方向，顺利的话半年就可以见刊。”你感到非常振奋。
+message.groupMeetingAdvisorHuabing2: 导师听了几句便打断你：“你做的这个方向，实际应用非常广泛，毕业找工作靠这个不用愁了。”你对未来充满期待。
+message.groupMeetingAdvisorHappy: 导师被你哄得十分开心，他感觉课题组又在蒸蒸日上了。
+message.groupMeetingLearn: 和同学们的交流很有收获，你有了一个新的想法。
+message.groupMeetingAdvisorReplyRepeat: 导师提出了和上次组会一样的问题，你熟练地回答了他。
+message.groupMeetingAdvisorSkip: 或许是没空，或许是忘了，总之导师没有组织组会，运气不错。
+message.groupMeetingAdvisorForget: 导师并没有注意到你没参加组会，你决定继续划水。
+message.groupMeetingSkipExplain1: 导师询问你为什么没有参加组会，你解释说身体不适正在医院。
+message.groupMeetingSkipExplain2: 导师询问你为什么没有参加组会，你解释说正在做实验分身乏术。
+message.groupMeetingSkipExplain3: 导师询问你为什么没有参加组会，你解释说正在参加学院的活动。
